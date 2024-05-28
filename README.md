@@ -1,5 +1,4 @@
-## Hi there 👋
----
+
 ## 👋 Hello cohort Harshal Gangurde here
 Aspiring Full Stack developer professional with knowledge of frontend and backend technologies Interested to solve real-world problems Passionate about coding and strongly interested in obtaining a Software Developer position.
 
